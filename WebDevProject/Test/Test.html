@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    <title>Test XML file</title> 
+    <script type="text/javascript">
+    function readXML(){
+      var xml=newXMLHTTPRequest();
+      xml.open('GET','Malahide.xml',false);
+      xml.send();
+      var xmlData=xml.responseText;
+      document.write(xmlData);
+      }
+    </script>
+  </head>
+      
+      <body>
+        <h1>Malahide</h1>
+        <button onclick="readXML()">
+          Read XML file
+        </button>
+      </body>
+  
+  </html>
