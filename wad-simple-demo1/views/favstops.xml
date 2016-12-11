@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<favstops>
+    <stop>
+        <name>Museum</name>
+        <line>Luas Red Line</line>
+        <abrev>MUS</abrev>
+    </stop>
+    <stop>
+        <name>St. Stephen's Green</name>
+        <line>Luas Green Line</line>
+        <abrev>STS</abrev>
+    </stop>
+    <stop>
+        <name>St. Stephen's Green</name>
+        <line>Luas Green Line</line>
+        <abrev>STS</abrev>
+    </stop>
+    <stop>
+        <name>The Point</name>
+        <line>Luas Red Line</line>
+        <abrev>TPT</abrev>
+    </stop>
+    <stop>
+        <name>Fatima</name>
+        <line>Luas Red Line</line>
+        <abrev>FAT</abrev>
+    </stop>
+    <stop>
+        <name>Abbey Street</name>
+        <line>Luas Red Line</line>
+        <abrev>ABB</abrev>
+    </stop>
+    <stop>
+        <name>Rialto</name>
+        <line>Luas Red Line</line>
+        <abrev>RIA</abrev>
+    </stop>
+</favstops>

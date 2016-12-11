@@ -1,0 +1,39 @@
+{
+    "stop": [
+        {
+            "name": "Museum",
+            "line": "Luas Red Line",
+            "abrev": "MUS"
+        },
+        {
+            "name": "St. Stephen's Green",
+            "line": "Luas Green Line",
+            "abrev": "STS"
+        },
+        {
+            "name": "St. Stephen's Green",
+            "line": "Luas Green Line",
+            "abrev": "STS"
+        },
+        {
+            "name": "The Point",
+            "line": "Luas Red Line",
+            "abrev": "TPT"
+        },
+        {
+            "name": "Fatima",
+            "line": "Luas Red Line",
+            "abrev": "FAT"
+        },
+        {
+            "name": "Abbey Street",
+            "line": "Luas Red Line",
+            "abrev": "ABB"
+        },
+        {
+            "name": "Rialto",
+            "line": "Luas Red Line",
+            "abrev": "RIA"
+        }
+    ]
+}
