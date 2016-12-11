@@ -73,7 +73,7 @@ function showResult(){
     url: "https://luasforecasts.rpa.ie/xml/get.ashx?action=forecast&stop="+stopAbrev+"&encrypt=false",
     dataType: "xml",
     success: function(a){	
-		//getting the luas stops going towards The Point
+		
 		$('#station').empty();
         station = $(a).find('stopInfo').attr('stop');
         $('#station').append('<h1><span class="glyphicon glyphicon-transfer"></span>  '+
@@ -81,7 +81,7 @@ function showResult(){
         $('#inbound').empty();
 		$('#outbound').empty();
         
-        
+       //getting the luas stops going towards The Point 
 		$(a).find('direction[name=Inbound]').find('tram').each(function(index){
             var due = $(this).attr('dueMins');
 			var time = 'min';
@@ -143,6 +143,10 @@ function add(){
 			}
     }
 	});
+}
+
+function hide(){
+	
 }
 			
 			function map() {

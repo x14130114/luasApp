@@ -11,11 +11,6 @@
         <abrev>STS</abrev>
     </stop>
     <stop>
-        <name>St. Stephen's Green</name>
-        <line>Luas Green Line</line>
-        <abrev>STS</abrev>
-    </stop>
-    <stop>
         <name>The Point</name>
         <line>Luas Red Line</line>
         <abrev>TPT</abrev>
@@ -34,5 +29,30 @@
         <name>Rialto</name>
         <line>Luas Red Line</line>
         <abrev>RIA</abrev>
+    </stop>
+    <stop>
+        <name>Suir Road</name>
+        <line>Luas Red Line</line>
+        <abrev>SUI</abrev>
+    </stop>
+    <stop>
+        <name>Four Courts</name>
+        <line>Luas Red Line</line>
+        <abrev>FOU</abrev>
+    </stop>
+    <stop>
+        <name>Milltown</name>
+        <line>Luas Green Line</line>
+        <abrev>MIL</abrev>
+    </stop>
+    <stop>
+        <name>Cheeverstown</name>
+        <line>Luas Red Line</line>
+        <abrev>CVN</abrev>
+    </stop>
+    <stop>
+        <name>Brides Glen</name>
+        <line>Luas Green Line</line>
+        <abrev>BRI</abrev>
     </stop>
 </favstops>

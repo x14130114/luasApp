@@ -34,6 +34,31 @@
             "name": "Rialto",
             "line": "Luas Red Line",
             "abrev": "RIA"
+        },
+        {
+            "name": "Suir Road",
+            "line": "Luas Red Line",
+            "abrev": "SUI"
+        },
+        {
+            "name": "Four Courts",
+            "line": "Luas Red Line",
+            "abrev": "FOU"
+        },
+        {
+            "name": "Milltown",
+            "line": "Luas Green Line",
+            "abrev": "MIL"
+        },
+        {
+            "name": "Cheeverstown",
+            "line": "Luas Red Line",
+            "abrev": "CVN"
+        },
+        {
+            "name": "Brides Glen",
+            "line": "Luas Green Line",
+            "abrev": "BRI"
         }
     ]
 }
